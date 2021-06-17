@@ -1,3 +1,4 @@
+#Faça um programa que leia duas notas e coloque peso na nas notas (nota 1 - peso 4 e nota 2 - peso 6), no final calcule a  média final
 student_name = str(input('Inform the student\'s name: '))
 note_1 = float(input('Inform the first note: '))
 note_2 = float(input('Inform the second note: '))
